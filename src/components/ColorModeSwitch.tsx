@@ -12,7 +12,7 @@ const ColorModeSwitch = () => {
       >
         {" "}
       </Switch>
-      <Text>DarkMode</Text>
+      <Text whiteSpace="noWrap">DarkMode</Text>
     </HStack>
   );
 };
